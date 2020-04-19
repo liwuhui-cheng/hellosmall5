@@ -1,0 +1,3 @@
+# Project exclude paths
+/eucrk-client/target/
+/eucrk-server/target/
